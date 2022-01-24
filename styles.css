@@ -1,0 +1,144 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header,
+footer,
+.hero {
+    background: #1F2937;
+    color: #e5e7eb;
+}
+
+header,
+footer {
+    display: flex;
+    padding: 20px;
+}
+
+header {
+    justify-content: space-between;
+}
+
+h1, h2 {
+    margin: 0;
+    color: #f9faf8;
+}    
+
+header h1 {
+    font-size: 24px;
+}    
+
+.content {
+    flex: 1;
+}    
+
+header ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.hero h2 {
+    font-size: 48px;
+    font-weight: 900;
+}    
+
+.hero p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #152937;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.info-container {
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 52px;
+}    
+
+.info-container .info-item {
+    max-width: 200px;
+    text-align: center;
+}    
+
+.info-container .info-item img {
+    width: 100px;
+    height: 100px;
+}
+
+.quote-box {
+    background: #e5e7eb;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.quote-author {
+    margin-left: auto;
+}
+
+.action-call {
+    background: #3882f6;
+    color: #e5e7eb;
+    width: 800px;
+    border-radius: 5px;
+    padding: 50px 20px;
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.action-header {
+    font-size: 18px;
+    font-weight: 700;
+    color: #f9faf8;
+}
+
+button {
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background: #3882f6;
+    padding: 10px 30px;
+    color: #e5e7eb;
+}
+
+.action-call button {
+    border: 2px solid #e5e7eb;
+}
+
+footer {
+    justify-content: center;
+}
