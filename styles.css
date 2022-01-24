@@ -51,6 +51,7 @@ header ul {
 .hero {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
     padding: 20px;
 }
@@ -96,7 +97,7 @@ header ul {
     color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 50px 200px;
 }
 
 .quote-text {
