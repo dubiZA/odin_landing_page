@@ -1,6 +1,8 @@
 # odin_landing_page
 The Odin Project CSS and Flexbox Foundations Assignment
 
+[https://dubiza.github.io/odin_landing_page/](https://dubiza.github.io/odin_landing_page/)
+
 Image attribution:
 - Photo by <a href="https://unsplash.com/@flowforfrank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ferenc Almasi</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@ryland_dean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryland Dean</a> on <a href="https://unsplash.com/@ryland_dean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
